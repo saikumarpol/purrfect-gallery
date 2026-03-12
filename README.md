@@ -197,6 +197,4 @@ Output goes to `dist/purrfect-gallery/browser/`. Deploy the contents of that fol
 
 
 
-## License
 
-MIT
